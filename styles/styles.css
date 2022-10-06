@@ -1,0 +1,123 @@
+body{
+  margin: 0;
+  color: #FFECEF;
+}
+h1{
+  font-family: 'Silkscreen', cursive;
+  font-size: 662.5%;
+}
+h2{
+  font-family: 'Silkscreen', cursive;
+  font-size: 4rem;
+  font-weight: lighter;
+}
+h3{
+  font-family: 'Silkscreen', cursive;
+}
+p{
+  font-family: 'Roboto', sans-serif;
+  line-height: 2;
+}
+
+/* Top Section*/
+
+.top-container{
+  padding-top: 80px;
+  padding-bottom: 150px;
+  text-align: center;
+  background-color: #251B37;
+}
+.hearts{
+  width: 300px;
+  padding-top: 100px;
+}
+
+.hearts-bottom{
+  width: 300px;
+  padding: 100px;
+}
+
+.astronaut{
+  position: absolute;
+  right: 200px;
+  top: 170px;
+  width: 300px;
+}
+.saturn{
+  position: absolute;
+  left: 130px;
+  top: 65px;
+  width: 480px;
+}
+.galaxy{
+  width: 500px;
+}
+
+.clouds{
+  padding: 100px;
+  width: 300px;
+}
+
+
+.middle-container{
+  padding: 100px;
+  background-color: #372948;
+}
+.profile{
+  margin: auto;
+  width: 30%;
+}
+.skill-row{
+  margin: 80px auto;
+  text-align: left;
+  width: 50%;
+}
+.speaking{
+  float: left;
+  width: 25%;
+  margin-right: 50px;
+}
+.empathizing{
+  float: right;
+  width: 25%;
+  margin-left: 50px;
+}
+.investigating{
+  float: left;
+  width: 25%;
+  margin-right: 50px;
+}
+
+.contact-me{
+  margin: auto;
+  width: 30%;
+}
+
+.contact-img{
+  width: 500px;
+}
+
+.cat{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
+
+.bottom-container{
+  background-color: #FFCACA;
+  text-align: center;
+  padding: 50px;
+}
+.footer-link{
+  margin: 0 30px;
+  text-decoration: none;
+  color: #251B37;
+}
+.footer-link:hover{
+  color: #251B37;
+}
+.credit{
+  margin-top: 40px;
+  color: #251B37;
+}
